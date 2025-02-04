@@ -1,4 +1,4 @@
-# Hello World!, I'm Francy-Coder.
+# Hello World! I'm Francy-Coder.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
