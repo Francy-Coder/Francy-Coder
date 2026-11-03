@@ -1,6 +1,6 @@
 # Hi, I'm Francy 👋
 
-### Computer Science Student
+### Exploring the World of Code
 
 First-year Computer Science student at the University of Milan, passionate about programming and understanding how things work under the hood. Currently exploring different areas of computer science and turning what I learn into practice.
 
@@ -17,14 +17,10 @@ First-year Computer Science student at the University of Milan, passionate about
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
-
 ## 🌱 Currently Learning
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-5B2C83?style=for-the-badge)
-
-<br>
 
 ## 🐍 Activity of this Year
 
