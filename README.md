@@ -31,4 +31,4 @@ First-year Computer Science student at the University of Milan, passionate about
 -->
 
 ## 🎏 My Koi
-<img src="koi/koi.gif" width="512" alt="My koi" />
+<img src="koi/koi.gif" width="1" alt="My koi" />
