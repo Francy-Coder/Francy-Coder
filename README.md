@@ -20,6 +20,7 @@ First-year Computer Science student at the University of Milan, passionate about
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-5B2C83?style=for-the-badge)
 
+<!-- 
 ## 🐍 Activity of this Year
 
 <picture>
@@ -27,6 +28,7 @@ First-year Computer Science student at the University of Milan, passionate about
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francy-Coder/Francy-Coder/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Francy-Coder/Francy-Coder/output/github-snake.svg" />
 </picture>
+-->
 
-## 🐟 Koi
+## 🎏 My Koi
 <img src="koi/koi.gif" width="256" alt="My koi" />
