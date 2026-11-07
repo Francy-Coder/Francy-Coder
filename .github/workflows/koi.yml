@@ -24,6 +24,13 @@ jobs:
         with:
           body: white
           output-dir: koi
+      - name: Make the koi wide
+        shell: bash
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq imagemagick
+          bg=$(convert 'koi/koi.gif[0]' -format '%[pixel:p{0,0}]' info:)
+          convert koi/koi.gif -coalesce -background "$bg" -gravity center -extent 1024x512 +repage -layers optimize koi/koi.gif
       - name: Commit the koi if it changed
         shell: bash
         run: |
